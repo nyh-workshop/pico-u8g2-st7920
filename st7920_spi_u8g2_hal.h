@@ -13,7 +13,7 @@
 #define PIN_CS 5
 #define PIN_SCK 2
 #define PIN_MOSI 3
-#define SPI_SPEED 500 * 1000
+#define SPI_SPEED 800 * 1000
 #define PIN_RST 13
 
 void st7920_writeReg_SPI(uint8_t aByte);
