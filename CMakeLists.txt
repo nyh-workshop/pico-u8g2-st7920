@@ -47,6 +47,7 @@ target_include_directories(pico-u8g2-st7920 PRIVATE
   ${CMAKE_CURRENT_LIST_DIR}
   ${CMAKE_CURRENT_LIST_DIR}/.. # for our common lwipopts or any other standard includes, if required
   u8g2/csrc
+  u8g2/cppsrc
 )
 
 file(GLOB U8G2_SRC u8g2/csrc/*.c)

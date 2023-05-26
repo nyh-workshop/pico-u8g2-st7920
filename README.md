@@ -19,4 +19,4 @@ Currently only SPI is supported.
 - Latest version of U8G2
 
 ## References:
-- [Porting U8G2 to RP2040 SDK](https://github.com/olikraus/u8g2/issues/1758)
+- [Porting U8G2 to RP2040 SDK](https://github.com/olikraus/u8g2/issues/2159)
